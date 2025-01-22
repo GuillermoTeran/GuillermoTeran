@@ -7,7 +7,7 @@ https://github.com/GuillermoTeran/GuillermoTeran/blob/main/banner.png
 
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guillermo-teran)
 
-[![](https://img.shields.io/badge/Página_Web-yelow?style=for-the-badge&logo=medium&logoColor=white)](https://www.noelia-navarro.com/)
+[![](https://img.shields.io/badge/Página_Web-yelow?style=for-the-badge&logo=medium&logoColor=white)](https://github.com/GuillermoTeran/portafolio-/)
 
 ## Hi there 👋
 
@@ -24,14 +24,14 @@ Apasionado por la transformación y análisis de datos me encuentro en una trans
 
 * :heartbeat: Me encanta descubrir nuevas formas de automatizar y de visualizar los informes de mi trabajo
 
-* :mailbox: ¿Quieres contactar conmigo? [![Linkedin Badge](https://img.shields.io/badge/-Noelia-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/guillermo-teran/)
+* :mailbox: ¿Quieres contactar conmigo? 
 
 * <div id="header" align="left">
     <img decoding="async" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python"/>
   </a>
     <img decoding="async" src="https://img.shields.io/badge/MySQL-6DB33F?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql"/>
   </a>
- <img decoding="async" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="excel"/>
+    <img decoding="async" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="excel"/>
   </a>
  
 </div>
