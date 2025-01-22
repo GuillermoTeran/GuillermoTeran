@@ -21,7 +21,7 @@ Apasionado por la transformación y análisis de datos, disfrutando de una trans
 
 - 💻 Me encanta descubrir nuevas formas de automatizar mi trabajo.
 
-- :mailbox: **¿Quieres contactar conmigo?** [LinkedIn](https://www.linkedin.com/in/teran-guillermo/)
+- :mailbox: **¿Quieres contactar conmigo?** [LinkedIn](https://www.linkedin.com/in/guillermo-teran/)
 
 ---
 
