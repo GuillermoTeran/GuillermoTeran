@@ -2,7 +2,7 @@
   <img decoding="async" src="img.png" width="800"/>
 </div>
 
-[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/noelianav/)
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]
 
 <h1 align="center">
   Hola, soy Guillermo ¡Encantado de conocerte!
@@ -21,7 +21,7 @@ Apasionado por la transformación y análisis de datos, disfrutando de una trans
 
 - 💻 Me encanta descubrir nuevas formas de automatizar mi trabajo.
 
-- :mailbox: **¿Quieres contactar conmigo?** [LinkedIn](https://www.linkedin.com/in/noelianav/)
+- :mailbox: **¿Quieres contactar conmigo?** [LinkedIn](https://www.linkedin.com/in/teran-guillermo/)
 
 ---
 
