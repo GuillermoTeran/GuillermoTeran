@@ -1,15 +1,4 @@
-<div id="header" align="center">
-  <banner decoding="async" src="
-https://github.com/GuillermoTeran/GuillermoTeran/blob/main/banner.png" width="800"/>
-</div>
-
-https://github.com/GuillermoTeran/GuillermoTeran/blob/main/banner.png
-
-[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guillermo-teran)
-
-[![](https://img.shields.io/badge/Página_Web-yelow?style=for-the-badge&logo=medium&logoColor=white)](https://github.com/GuillermoTeran/portafolio-/)
-
-## Hi there 👋
+## Hola 👋
 
 ---
  <div id="header" align="left">
@@ -22,7 +11,7 @@ Apasionado por la transformación y análisis de datos me encuentro en una trans
 
 * :seedling: Estoy estudiando :blue_book: y practicando :computer: lenguaje SQL y Python, sin dejar de lado las increíbles herramientas de Microsoft.
 
-* :heartbeat: Me encanta descubrir nuevas formas de automatizar y de visualizar los informes de mi trabajo
+* :💻: Me encanta descubrir nuevas formas de automatizar y de visualizar los informes de mi trabajo
 
 * :mailbox: ¿Quieres contactar conmigo? 
 
