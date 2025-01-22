@@ -11,7 +11,7 @@
 
 ### :man_technologist: Sobre mí :
 
-Apasionado por la transformación y análisis de datos, disfrutando de una transición laboral al Data Analytics <img decoding="async" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+Apasionado por la transformación y análisis de datos disfrutando de una transición laboral al Data Analytics <img decoding="async" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 - :telescope: Actualmente trabajo en el área administrativa de una empresa de venta de productos agroveterinarios, pero busco nuevos retos. :muscle:
 
