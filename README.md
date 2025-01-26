@@ -26,7 +26,6 @@
   <img decoding="async" src="https://img.shields.io/badge/MySQL-6DB33F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
   <img decoding="async" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel"/>
   <img decoding="async" src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau"/>
-  <img decoding="async" src="https://img.shields.io/badge/PowerBI-1E64A4?style=for-the-badge&logo=powerbi&logoColor=white" alt="Power BI"/>
 </div>
 
 ---
@@ -54,8 +53,6 @@ Siempre estoy buscando **nuevas herramientas** y **métodos** para mejorar mi ef
 En mi perfil de GitHub, podrás explorar una variedad de proyectos que he desarrollado, cada uno con una descripción detallada, instrucciones de uso y ejemplos de su funcionamiento. Algunos de mis proyectos incluyen:
 
 - **Análisis de Datos con Python y SQL**: Análisis de grandes volúmenes de datos para obtener **información valiosa** y generar **informes predictivos**.
-- **Automatización de Reportes**: Automatización de la generación de informes usando **Python** y **Excel**, ahorrando horas de trabajo manual.
-- **Visualización de Datos**: Creación de **dashboards interactivos** en **Tableau** y **Power BI** para monitorear KPIs clave.
 
 ---
 
