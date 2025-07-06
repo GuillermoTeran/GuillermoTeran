@@ -64,4 +64,4 @@ Puedes encontrarme en [**LinkedIn**](https://www.linkedin.com/in/guillermo-teran
 
 ### 🔗 Conéctate conmigo en GitHub
 
-No dudes en explorar mis repositorios y proyectos. Si tienes alguna sugerencia o feedback, ¡me encantaría escucharlo! Estoy siempre en la búsqueda de mejorar mis habilidades y aprender de otros desarrolladores. https://github.com/GuillermoTeran/portafolio- 
+No dudes en explorar mis repositorios y proyectos. Si tienes alguna sugerencia o feedback, ¡me encantaría escucharlo! Estoy siempre en la búsqueda de mejorar mis habilidades y aprender de otros desarrolladores. https://guillermoteran.github.io/Portafolio-de-proyectos/
